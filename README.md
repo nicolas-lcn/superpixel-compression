@@ -1,6 +1,6 @@
 # Super-Pixel based image compression
 A simple image compressor tool based on superpixel, using SLIC algorithm. 
-Developed in C++ and python (GUI). 
+Developed in C++ and python (GUI) in group of two as a student project. 
 
 Our SLIC algorithm implementation is mostly based on this work : \
 ![SLIC Superpixels Compared to State-of-the-Art Superpixel Methods](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwic2-yVpLaBAxWCVKQEHQwJBT4QFnoECA4QAQ&url=https%3A%2F%2Fieeexplore.ieee.org%2Fdocument%2F6205760&usg=AOvVaw1Ls80P5muFwuJJZqAtt6TN&opi=89978449)\
